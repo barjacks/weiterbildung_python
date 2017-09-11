@@ -1,5 +1,3 @@
 # weiterbildung_python
 
-hello world ...
-
-ich brauche hilfe ...
+hello world! 
